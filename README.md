@@ -16,19 +16,19 @@ plik .
 copier le lien et l'envoyer par mail
 
 ## ex01 date.sh
-faire un script ex01/date.sh
+faire un script `ex01/date.sh`
 qui affiche la date avec le nombre de secondes depuis le 1er janvier 1970
 
 ```
    man date
 ```
 ## ex02 cd.sh
-faire un script ex02/cd.sh
+faire un script `ex02/cd.sh`
 qui crée un répertoire, va dedans
 affiche le contenu
 
 ## ex03 verification.sh
-faire un script ex03/verification.sh
+faire un script `ex03/verification.sh`
 qui regarde si un fichier "efface_moi" existe
 si le fichier existe il l'efface, sinon il affiche "nothing to do"
 
