@@ -19,7 +19,8 @@ copier le lien et l'envoyer par mail
 faire un script ex01/date.sh
 qui affiche la date avec le nombre de secondes depuis le 1er janvier 1970
 
-```man date
+```
+   man date
 ```
 ## ex02 cd.sh
 faire un script ex02/cd.sh
