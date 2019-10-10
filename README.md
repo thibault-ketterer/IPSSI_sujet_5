@@ -1,6 +1,6 @@
 ## procedure de rendu
 vous devez créer un répertoire rendu et m'envoyer le lien plik par mail sur thekit@gmail.com
-le titre du mail devra être "[IPSSI5e] <votre nom>"
+le titre du mail devra être "[IPSSI5e] votre nom"
 
 voici un exemple de procédure pour ne rendre que l'exercice01
 ```
@@ -19,8 +19,8 @@ copier le lien et l'envoyer par mail
 faire un script ex01/date.sh
 qui affiche la date avec le nombre de secondes depuis le 1er janvier 1970
 
- man date
-
+```man date
+```
 ## ex02 cd.sh
 faire un script ex02/cd.sh
 qui crée un répertoire, va dedans
@@ -31,10 +31,10 @@ faire un script ex03/verification.sh
 qui regarde si un fichier "efface_moi" existe
 si le fichier existe il l'efface, sinon il affiche "nothing to do"
 
- indice dans votre ~/.profile
+ indice dans votre `~/.profile` (oui ici pour les utilisateurs de mac https://gist.github.com/edwinksl/dafc0594176df6058bb395e985833189)
 
 ## ex04 test_curl.sh
-faire un script ex04/test_curl.sh
+faire un script `ex04/test_curl.sh`
 qui test si un site fonctionne et affiche "OK" si c'est le cas "FAIL" si ce n'est pas le cas
 
 indice, utilisez curl
