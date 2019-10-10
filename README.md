@@ -1,5 +1,5 @@
 ## procedure de rendu
-vous devez créer un répertoire rendu et m'envoyer le lien plik par mail sur thekit@gmail.com
+vous devez créer un répertoire rendu et m'envoyer le lien plik par mail sur thekit+ipssi5@gmail.com
 le titre du mail devra être "[IPSSI5e] votre nom"
 
 voici un exemple de procédure pour ne rendre que l'exercice01
