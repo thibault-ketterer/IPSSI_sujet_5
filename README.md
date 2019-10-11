@@ -2,6 +2,9 @@
 
 https://drive.google.com/open?id=1t63frMu8oX8G8bbUNKugs4SgRt5hVsRi
 
+# un peu de doc
+https://www.google.com/search?q=commandes+de+bases+linux&oq=commandes+de+&aqs=chrome.1.69i57j69i59j0l3j69i60.4859j0j7&sourceid=chrome&ie=UTF-8
+
 # sujet
 ## procedure de rendu
 vous devez créer un répertoire rendu et m'envoyer le lien plik par mail sur thekit+ipssi5@gmail.com
