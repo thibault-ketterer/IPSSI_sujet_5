@@ -2,7 +2,7 @@
 
 ```
 wget 'https://github.com/root-gg/plik/releases/download/1.2.2/plik-1.2.2-linux-64bits.tar.gz'
-tar xf plik/releases/download/1.2.2/plik-1.2.2-linux-64bits.tar.gz
+tar xf plik-1.2.2-linux-64bits.tar.gz
 
 
 ```
