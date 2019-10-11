@@ -20,6 +20,38 @@ MacOs
 	cp plik-1.2.2/clients/darwin-amd64/plik /usr/bin/.
 ```
 
+```
+echo '
+Debug = false
+Quiet = false
+URL = "https://plik.root.gg"
+OneShot = false
+Removable = false
+Stream = false
+Secure = false
+SecureMethod = "openssl"
+Archive = false
+ArchiveMethod = "tar"
+DownloadBinary = "curl"
+Comments = ""
+Yubikey = false
+Password = ""
+TTL = 2592000
+AutoUpdate = true
+Token = ""
+
+[SecureOptions]
+  Cipher = "aes-256-cbc"
+  Openssl = "/usr/bin/openssl"
+  Options = "-md sha256"
+
+[ArchiveOptions]
+  Compress = "gzip"
+  Options = ""
+  Tar = "/bin/tar"
+' > ~/.plikrc
+```
+
 tester plik
 
 ```
