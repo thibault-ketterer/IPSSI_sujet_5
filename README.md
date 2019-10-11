@@ -1,3 +1,36 @@
+# installer plik
+
+```
+wget 'https://github.com/root-gg/plik/releases/download/1.2.2/plik-1.2.2-linux-64bits.tar.gz'
+tar xf plik/releases/download/1.2.2/plik-1.2.2-linux-64bits.tar.gz
+
+
+```
+
+Linux
+
+copier plik dans /usr/bin/.
+
+```
+	cp plik-1.2.2/clients/linux-amd64/plik /usr/bin/
+```
+
+MacOs
+```
+	cp plik-1.2.2/clients/darwin-amd64/plik /usr/bin/.
+```
+
+tester plik
+
+```
+cd
+mkdir testplik
+cd testplik
+touch testfile
+plik .
+```
+
+
 # supports de cours
 
 https://drive.google.com/open?id=1t63frMu8oX8G8bbUNKugs4SgRt5hVsRi
