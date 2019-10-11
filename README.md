@@ -255,3 +255,45 @@ note: le fichier ne sera pas executé sous ansible mais vérifié à la main
 ## ex15 quel intéret de faire l'installation de prometheus via ansible ?
 réponse dans `ex15/answer.txt`
 
+# faire son rendu
+vous devez avoir si vous avez tout fait dans votre répertoire ~/rendu
+
+```
+~/rendu _ ls -l
+total 0
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex01
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex02
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex03
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex04
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex05
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex06
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex07
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex08
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex09
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex10
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex11
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex12
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex13
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex14
+drwxr-xr-x 1 kit kit 0 Oct 11 11:25 ex15
+```
+vous faite donc votre rendu comme ceci
+```
+cd ~/rendu
+plik .
+```
+
+et copier coller le lien que plik vous donne, exemple 
+```
+$ plik . 
+Upload successfully created at Fri, 11 Oct 2019 11:27:12 CEST : 
+    https://plik.root.gg/#/?id=S2Nz0NYGVBQcXF5m   <----------------------------- CE LIEN ICI
+
+..tar.gz : 234 B 1.07 KB/s                                                      
+
+Commands : 
+curl -s "https://plik.root.gg/file/S2Nz0NYGVBQcXF5m/lX6gvLJYdKmx1Zrt/..tar.gz" | tar xvf - --gzip
+```
+
+donc dans cet EXEMPLE vous envoyer par mail le lien plik  trouvé: https://plik.root.gg/#/?id=S2Nz0NYGVBQcXF5m 
+
