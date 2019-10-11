@@ -212,9 +212,9 @@ qui lit un fichier `list.txt` et créé
 dans ce répertoire crée
 - un fichier pour chaque ligne dans le fichier de liste
 
-ppour ce faire utilisez:
-while
-read
+pour ce faire utilisez:
+* while
+* read
 
 list.txt
 ```
