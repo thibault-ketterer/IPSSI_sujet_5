@@ -297,3 +297,5 @@ curl -s "https://plik.root.gg/file/S2Nz0NYGVBQcXF5m/lX6gvLJYdKmx1Zrt/..tar.gz" |
 
 donc dans cet EXEMPLE vous envoyer par mail le lien plik  trouvé: https://plik.root.gg/#/?id=S2Nz0NYGVBQcXF5m 
 
+
+Vous pouvez vérifier votre upload plik avec 7-zip sous windows qui sait ouvrir les .tar.gz
