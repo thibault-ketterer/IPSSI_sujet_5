@@ -248,7 +248,7 @@ note: le fichier ne sera pas executé sous ansible mais vérifié à la main
 ## ex14 ansible 
 créer un fichier de role ansible `ex14/ansible.yml`
 
-qui installe copie un fichier `file.conf` dans le repertoire `/etc/file.conf`
+qui copie un fichier `file.conf` dans le repertoire `/etc/file.conf`
 
 note: le fichier ne sera pas executé sous ansible mais vérifié à la main
 
